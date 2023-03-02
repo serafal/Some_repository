@@ -1,0 +1,10 @@
+
+.Header {
+    /* background-image: url(../Data/Images/Header_background.png); */
+    height: auto;
+    width: 100%;
+    background-size: absolute;
+    padding-bottom: 62.5%;
+    background-position: center;
+    background-repeat: no-repeat;
+  } 

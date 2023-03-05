@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className="Header">
       <Button variant="primary">Button</Button>
-      <p>Hello, Header</p>
+      <p>Изменил надпись в Header</p>
     </div>
   );
 }

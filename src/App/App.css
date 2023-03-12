@@ -1,3 +1,7 @@
 .App {
     background-color:darkgray;  
   }
+
+body {
+  background-color: darkgray !important;
+}
